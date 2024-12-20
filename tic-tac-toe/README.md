@@ -1,8 +1,7 @@
-# React + Vite
+# Juego del Gato (3 en linea, tic tac toe, etc)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Con este codigo es un codigo sencillo donde puedes jugar el gato en una sola pantalla.
+Esta creado con react + Vite:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) usando [Babel](https://babeljs.io/)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) usando [SWC](https://swc.rs/) for Fast Refresh
